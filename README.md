@@ -9,7 +9,7 @@ I have been coding for a little over a year now and so I have over two years in 
 * 🌍  I'm based in Orlando
 * 🖥️  See my portfolio at [MyPortfolio](http://aramcodes.github.io/portfolio/)
 * ✉️  You can contact me at [johnnyvalcourt@yahoo.com](mailto:johnnyvalcourt@yahoo.com)
-* 🧠  I'm learning React, Typescript, and WordPress
+* 🧠  I'm learning React, Tailwind,Typescript, and WordPress
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I have trained in coding and trained with computers in general(CompTIA A+)
 
