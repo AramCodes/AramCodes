@@ -29,6 +29,8 @@ I have been coding for a little over a year now and so I have over two years in 
 
 <b>My GitHub Stats</b>
 
+These stats are only for public repos it doesn't show private stats on projects for previous employers and clients.
+
 <a href="http://www.github.com/AramCodes"><img src="https://github-readme-stats.vercel.app/api?username=AramCodes&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AramCodes's GitHub stats" /></a>
 
 <a href="http://www.github.com/aramcodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aramcodes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
