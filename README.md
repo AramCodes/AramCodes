@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I have been coding for a little over a year now and so I have over two years in the IT industry, after switching industries. I am preferential to the front-end, but I also have experience with the back-end. I have used foundational technologies such as HTML, CSS, and JavaScript, as well as React, Java, Spring Boot, MySQL, MongoDB, Bootstrap, SASS, and Tailwind. I am also familiar with tools such as Git, Maven, Docker, Vs Code, IntelliJ, and Postman.
+I have been coding for a little over a year and a half now and so I have over two years in the IT industry, after switching industries. I am preferential to the front-end, but I also have experience with the back-end. I have used foundational technologies such as HTML, CSS, and JavaScript, as well as React, Java, Spring Boot, MySQL, MongoDB, Bootstrap, SASS, and Tailwind. I am also familiar with tools such as Git, Maven, Docker, Vs Code, IntelliJ, and Postman.
 
 * 🌍  I'm based in Orlando
 * 🖥️  See my portfolio at [MyPortfolio](http://aramcodes.github.io/portfolio/)
