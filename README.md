@@ -9,7 +9,7 @@ I have been coding for a little over a year and a half now and so I have over tw
 * 🌍  I'm based in Orlando
 * 🖥️  See my portfolio at [MyPortfolio](http://aramcodes.github.io/portfolio/)
 * ✉️  You can contact me at [johnnyvalcourt@yahoo.com](mailto:johnnyvalcourt@yahoo.com)
-* 🧠  I'm strengthening my Java skills
+* 🧠  I'm strengthening my Java skills and working on Data Structures and Algorithms.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I have trained in coding and trained with computers in general(CompTIA A+)
 
