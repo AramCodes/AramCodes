@@ -6,7 +6,7 @@ Fullstack Developer
 
 I have experience in the front-end and the back-end. I have used technologies such as HTML, CSS, JavaScript, React, Java, Spring Boot, MySQL, MongoDB, Firestore/Firebase, Bootstrap, SASS, and Tailwind. I am also familiar with tools such as Git, Maven, Docker, Vs Code, IntelliJ, and Postman.
 
-* 🌍  I'm based in Orlando
+* 🌍  I'm based in Estados Unidos
 * 🖥️  See my portfolio at [MyPortfolio](http://aramcodes.github.io/portfolio/)
 * ✉️  You can contact me at [johnnyvalcourt@yahoo.com](mailto:johnnyvalcourt@yahoo.com)
 * 🧠  I'm strengthening my Java skills and working on Data Structures and Algorithms.
