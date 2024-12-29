@@ -8,7 +8,6 @@ I have experience in the front-end and the back-end. I have used technologies su
 
 * 🌍  I'm based in Estados Unidos
 * 🖥️  See my portfolio at [MyPortfolio](http://aramcodes.github.io/portfolio/)
-* ✉️  You can contact me at [johnnyvalcourt@yahoo.com](mailto:johnnyvalcourt@yahoo.com)
 * 🧠  I'm strengthening my Java skills and working on Data Structures and Algorithms.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I have trained in coding and trained with computers in general(CompTIA A+)
