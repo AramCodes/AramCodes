@@ -8,7 +8,7 @@ I have experience in the front-end and the back-end. I have used technologies su
 
 * 🌍  I'm based in Estados Unidos
 * 🖥️  See my portfolio at [MyPortfolio](http://aramcodes.github.io/portfolio/)
-* 🧠  I'm strengthening my Java skills and working on Data Structures and Algorithms.
+* 🧠  I'm learning AWS and Angular and working on Data Structures and Algorithms.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I have trained in coding and trained with computers in general(CompTIA A+)
 
