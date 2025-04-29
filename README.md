@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I have experience in the front-end and the back-end. I have used technologies such as HTML, CSS, JavaScript, React, Java, Spring Boot, MySQL, MongoDB, Firestore/Firebase, Bootstrap, SASS, and Tailwind. I am also familiar with tools such as Git, Maven, Docker, Vs Code, IntelliJ, and Postman.
+I have experience in the front-end and the back-end. I have used technologies such as HTML, CSS, JavaScript, React, Redux, Java, Spring Boot, MySQL, MongoDB, Firestore/Firebase, Bootstrap, SASS, and Tailwind. I am also familiar with tools such as Git, Maven, Docker, Vs Code, IntelliJ, and Postman.
 
-* 🌍  I'm based in Estados Unidos
+* 🌍  I'm based in United States
 * 🖥️  See my portfolio at [MyPortfolio](http://aramcodes.github.io/portfolio/)
 * 🧠  I'm learning AWS and Angular and working on Data Structures and Algorithms.
 * 🤝  I'm open to collaborating on Projects
