@@ -10,7 +10,7 @@ I have experience in the front-end and the back-end. I have used technologies su
 * 🖥️  See my portfolio at [MyPortfolio](http://aramcodes.github.io/portfolio/)
 * 🧠  I'm learning AWS and and working on Data Structures and Algorithms.
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I currently speak four languages, and love to study cultures and travel in my free time. I also like to study etymology and onomastics.
+* ⚡  I currently speak four languages, and love to study cultures and travel in my free time. I like to study etymology, anthroponymy and onomastics.
 
 ### Skills
 
